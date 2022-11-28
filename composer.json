@@ -56,7 +56,7 @@
       "ergebnis/composer-normalize": true
     },
     "platform": {
-      "php": "7.4.29"
+      "php": "8.0.25"
     },
     "preferred-install": "dist",
     "sort-packages": true
